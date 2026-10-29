@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "356561986080",
+    "project_id": "walking-with-ghosts-2026",
+    "storage_bucket": "walking-with-ghosts-2026.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356561986080:android:2d264b3e6d712dfe29d245",
+        "android_client_info": {
+          "package_name": "com.hdulam.walkingwithghosts"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeJHWhE2gHggIaxZ_A9x2HEjJ8tdRjKMI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

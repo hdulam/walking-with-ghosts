@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Walking with Ghosts</string>
+    <string name="app_subtitle">Ghost GO: Paranormal Hunt</string>
+    <string name="capture_title">Captura</string>
+    <string name="ghostdex_title">GhostDex</string>
+    <string name="action_back">Volver</string>
+    <string name="action_retry">Reintentar</string>
+
+    <!-- Radar -->
+    <string name="action_search_ghosts">Buscar fantasmas</string>
+    <string name="action_cancel_search">Cancelar búsqueda</string>
+    <string name="action_open_ghostdex">Abrir GhostDex</string>
+    <string name="action_open_settings">Abrir Ajustes</string>
+    <string name="radar_status_idle">Toca «Buscar fantasmas» para escanear la zona.</string>
+    <string name="radar_status_searching">Escaneando energía paranormal…</string>
+    <string name="radar_status_found">%1$d presencias detectadas. Toca una para capturarla.</string>
+    <string name="radar_status_permission_denied">Sin acceso a la ubicación no podemos saber qué fantasmas rondan tu zona. Puedes volver a intentarlo cuando quieras.</string>
+    <string name="radar_status_permission_permanently_denied">Android ya no mostrará la solicitud de ubicación. Si quieres buscar fantasmas, puedes activarla en los Ajustes de la app.</string>
+    <string name="radar_status_location_disabled">La ubicación del dispositivo está desactivada. Actívala e inténtalo de nuevo.</string>
+    <string name="radar_status_location_unavailable">No se pudo obtener tu ubicación ahora mismo. Inténtalo de nuevo en unos segundos.</string>
+    <string name="radar_status_error">Algo salió mal al escanear. Inténtalo de nuevo.</string>
+    <string name="rationale_title">¿Por qué la ubicación?</string>
+    <string name="rationale_message">Los fantasmas aparecen según la zona en la que estás. Usamos solo tu ubicación aproximada y nunca la guardamos.</string>
+    <string name="rationale_continue">Continuar</string>
+    <string name="rationale_not_now">Ahora no</string>
+    <string name="badge_captured">Capturado</string>
+
+    <!-- Capture -->
+    <string name="capture_chance">Probabilidad de captura: %1$d%%</string>
+    <string name="action_capture">Capturar</string>
+    <string name="capture_in_progress">Lanzando trampa espectral…</string>
+    <string name="capture_success">¡%1$s se unió a tu GhostDex!</string>
+    <string name="capture_escaped">%1$s escapó. Puedes intentarlo otra vez.</string>
+    <string name="capture_error">No se pudo guardar la captura. Inténtalo de nuevo.</string>
+    <string name="capture_not_found">Este fantasma se desvaneció.</string>
+
+    <!-- GhostDex -->
+    <string name="ghostdex_total">Capturados: %1$d / %2$d</string>
+    <string name="ghostdex_unknown">\?\?\?</string>
+    <string name="ghostdex_not_captured">No capturado</string>
+    <string name="ghostdex_error">No se pudo leer tu colección.</string>
+    <string name="action_featured_ghost_demo">Fantasma destacado (demo)</string>
+    <string name="ghostdex_featured">Destacado: %1$s</string>
+    <string name="ghostdex_featured_empty">Aún no tienes fantasmas capturados para destacar.</string>
+
+    <!-- Rarity -->
+    <string name="rarity_common">Común</string>
+    <string name="rarity_rare">Raro</string>
+    <string name="rarity_epic">Épico</string>
+    <string name="rarity_legendary">Legendario</string>
+</resources>
